@@ -1,0 +1,7 @@
+.DS_Store
+refresh/
+__pycache__/
+.idea/
+src/__pycache__/
+.env
+samples.csv
